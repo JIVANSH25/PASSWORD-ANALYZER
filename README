@@ -1,0 +1,24 @@
+# 🔒 Password Strength Checker (Python)
+
+A Python tool that analyzes the strength of a password and provides feedback, including weaknesses and suggestions for improvement.
+
+## 💡 Features
+
+- Analyzes password length, character diversity (uppercase, lowercase, digits, and special characters).
+- Ranks password strength as **Strong**, **Medium**, or **Weak**.
+- Provides feedback on missing elements (uppercase, lowercase, numbers, special characters) and suggestions for improvement.
+- Uses **colorama** for colored output.
+
+---
+
+## 🛠️ Installation
+
+### ✅ Requirements
+
+- Python 3.x
+- `colorama` library
+
+Install dependencies via pip:
+
+```bash
+pip install colorama
