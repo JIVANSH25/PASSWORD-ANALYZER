@@ -1,0 +1,32 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables and secrets
+.env
+*.key
+secret.key
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (optional)
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Virtual environment
+venv/
+env/
+
+# OS-specific files
+*.swp
+*.bak
+*.old
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
